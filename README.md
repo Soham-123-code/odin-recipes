@@ -1,0 +1,1 @@
+This a project of a simple recipe website that aims to make use of basic HTML and command line interface to create a starter website

@@ -1,0 +1,9 @@
+h1 {
+    background-color: lightskyblue;
+}
+
+img {
+    height: auto;
+    width: auto;
+    align-self: center;
+}
